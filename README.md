@@ -8,7 +8,7 @@ Change the background color of the page by clicking a button.
 
 ![screenshot](screenshot.png)
 
-- [Live Site]()
+- [Live Site](https://color-flipper-task-lateefat.netlify.app/)
 - [Git Repo Solution](https://github.com/Lateefat/color-flipper-task)
 
 # My Process
